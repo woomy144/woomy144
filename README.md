@@ -9,5 +9,5 @@
 
 <br><br>
 
-<a href="https://github.com/li0ard"><img align="center" src="https://github-readme-stats.vercel.app/api?username=li0ard&show_icons=true&hide_border=true"></a>
+
 <a href="https://github.com/li0ard"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li0ard&layout=compact&count_private=false&hide_border=true"></a>
