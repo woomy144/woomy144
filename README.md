@@ -1,12 +1,10 @@
-### Hi-привет 👋
+# Hi there, I'm Roma
+love js, c++,css,scss,html,python , ue4, sites and 
 
+![c++](https://img.shields.io/badge/cpp-%23ED8B00.svg?style=for-the-badge&logo=cpp&logoColor=white)    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   [![Discord](https://img.shields.io/discord/872512727418015755?label=DISCORD&style=for-the-badge)](https://discord.gg/mcnWfGTC)
 
-+ **🛠 Languages and tools-Языки и инструменты:**
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitkanikita21&show_icons=true&theme=merko)
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">    <img height="40" src="https://www.freepng.ru/png-9xlgx8/">
-
-
-
-<br><br>
-
-<a href="https://github.com/Woomy144"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woomy144&layout=compact&count_private=false&hide_border=true"></a>
+❓ Ask me ❓
+* Discord: [![Discord Badge](https://img.shields.io/badge/-Нитка Никита%236240-blue?style=social&logo=Discord&link=https://discord.com/users/391549863185219585)](https://discord.com/users/391549863185219585)
+* Email: waleryvvs1@gmail.com
