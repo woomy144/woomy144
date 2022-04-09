@@ -7,3 +7,6 @@ love js, c++,css,sass,html,python , ue4, sites and
 
 ❓ Ask me ❓
 * Discord: Ебалгит Лера#7633
+* <img
+  src="https://raw.githubusercontent.com/pluffie/pluffie/main/Vanilla-1s-280px.gif"
+  style="width: 100%">
