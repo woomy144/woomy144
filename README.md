@@ -6,7 +6,7 @@ love js, c++,css,sass,html,python , ue4, sites and
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woomy144&show_icons=true&theme=merko)
 
 ❓ Ask me ❓
-* Discord: Ебалгит Лера#7633
+* Discord: Wesi#7633
 * <img
   src="https://raw.githubusercontent.com/pluffie/pluffie/main/Vanilla-1s-280px.gif"
   style="width: 100%">
